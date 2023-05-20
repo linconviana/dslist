@@ -1,0 +1,7 @@
+
+/// rodar script do docker, entra na pasta e no terminal do powershell rodar comando
+docker-compose up -d
+
+/// ver os container 
+docker ps
+

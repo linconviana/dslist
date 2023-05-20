@@ -1,0 +1,43 @@
+https://railway.app/dashboard
+
+login com conta github
+
+
+postgresql://postgres:xwj6nlIaO2w83ku5nIEz@containers-us-west-204.railway.app:6566/railway
+
+
+postgresql://
+
+/// :: Usuario
+postgres
+
+:
+
+/// :: Senha
+xwj6nlIaO2w83ku5nIEz
+
+@
+
+/// :: Host
+containers-us-west-204.railway.app
+
+:
+
+/// :: Port
+6566
+
+/
+
+/// :: Database
+railway
+
+
+/// :: Url para variavel de ambiente railway
+jdbc:postgresql://containers-us-west-204.railway.app:6566/railway
+
+
+
+/// :: dominio publico railway
+dslist-production-6ffb.up.railway.app
+
+https://dslist-production-6ffb.up.railway.app/games
