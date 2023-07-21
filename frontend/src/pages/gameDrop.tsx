@@ -17,7 +17,7 @@ const GameDrop = () => {
       setPage(result.data);
     }
     GetAllPackage(`lists/${tipoGame}/games`, '', getResult);
-
+debugger
     return;   
   }, [tipoGame]);
 
